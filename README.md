@@ -1,0 +1,1 @@
+This is an Unreal Engine project I completed at Boise State University. It's solid, for my first time working in Unreal. These projects labeled 397 only use blueprints, as that is all that was taught in this class. Still good though.
